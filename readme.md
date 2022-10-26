@@ -1,6 +1,6 @@
 # Automação de Sistemas e Processos em Python
 
-Projeto desenvolvido em Python com objetivo de automatizar processos repetitivos em aplicações Web. 
+Projeto desenvolvido em Python com objetivo de automatizar processos repetitivos. 
 
 Basicamente todos os dias o usuário precisa entrar no sistema, neste caso, uma planilha no Google Drive, pegar o faturamento, quantidade de produtos vendidos no dia anterior e enviar para o e-mail da diretoria.
 
